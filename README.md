@@ -19,7 +19,7 @@ Packages used:
 
 ## Installation
 
-### with Expo
+### With Expo
 
 Clone this repo `git clone https://github.com/Harshal0902/Signal-Clone.git`
 ```
@@ -28,7 +28,7 @@ npm install
 expo start
 ```
 
-### without Expo
+### Without Expo
 
 **Make sure you have ExpoCLI installed `npm install -g expo-cli`**
 
