@@ -15,7 +15,7 @@ Packages used:
 
 ## Screenshots
 
-<img src='https://user-images.githubusercontent.com/64153988/109513843-839d3580-7acb-11eb-960e-84eae556bd44.png' width='230'> <img src='https://user-images.githubusercontent.com/64153988/109513900-8e57ca80-7acb-11eb-8c9d-5783a8950a65.png' width='230'> <img src='https://user-images.githubusercontent.com/64153988/109514758-60bf5100-7acc-11eb-97f4-2cc1fd76d231.png' width='230'> <img src='https://user-images.githubusercontent.com/64153988/109514901-80ef1000-7acc-11eb-81e0-81baece44828.png' width='230'>
+<img src='https://user-images.githubusercontent.com/64153988/109513843-839d3580-7acb-11eb-960e-84eae556bd44.png' width='300'> <img src='https://user-images.githubusercontent.com/64153988/109513900-8e57ca80-7acb-11eb-8c9d-5783a8950a65.png' width='300'> <img src='https://user-images.githubusercontent.com/64153988/109514758-60bf5100-7acc-11eb-97f4-2cc1fd76d231.png' width='300'> <img src='https://user-images.githubusercontent.com/64153988/109514901-80ef1000-7acc-11eb-81e0-81baece44828.png' width='300'>
 
 ## Installation
 
