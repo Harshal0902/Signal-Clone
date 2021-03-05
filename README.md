@@ -24,7 +24,7 @@ Packages used:
 Clone this repo `git clone https://github.com/Harshal0902/Signal-Clone.git`
 ```
 cd Signal-Clone
-npm install
+yarn install
 expo start
 ```
 
